@@ -7,9 +7,24 @@ order: 4
 
 CAMP[9] will be held at the McCune Conference room (6020 Humanities and Social Sciences Building) at UCSB. 
 
-## Transportation
+## Getting to UCSB
+Confusingly, UCSB is in Goleta, not Santa Barbara! 
 
-**🚗 Parking** 
+**Driving Times**
+  -5-6 hours to south part of Bay Area.
+  -2-3 hours to LA
+  
+**Amtrak**
+  -From San Diego and LA, use the Goleta Amtrak stop
+  -From Bay Area / San Jose, use the Santa Barbara Amtrak stop.
+
+**Flights**
+  -The SBA airport is basically on campus-- you can't beat the convenience! 
+  -There are flights to OAK, SFO, LAX, SMF, and SAN.
+
+## 🚗 🚌 Local Transportation
+
+**Parking** 
 
 Lot 29 is the closest visitor parking lot.
 
@@ -18,7 +33,7 @@ Lot 22 garage is also nearby and has electric car charging.
 For both, you can pay at the blue kiosks or with the ParkMobile app.
 
 
-**🚌 Bus** 
+**Bus** 
 
 The main campus bus stop is "North Hall Bus Loop".
 
