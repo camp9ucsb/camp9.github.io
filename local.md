@@ -65,7 +65,7 @@ In/near Camino Real Marketplace: Lilly's Tacos, Jane at the Marketplace, Janine'
 ## 🏖️ Things to Do
 Tidepooling / plover watching at Coal Oil Point beach or Campus Point beach
 
-AD\&A Art Museum
+AD&A Art Museum
 
 Glass Box Gallery at UCSB
 
